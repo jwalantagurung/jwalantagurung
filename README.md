@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jwolan Gurung</h1>
 <h3 align="center">Web developer and designer from Nepal</h3>
 
-<img align="right" alt="guitar" width="600" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_j_Su6tcxqElprhQdf2Bapjz9r6Rysor2-w&usqp=CAU](https://www.google.com/imgres?imgurl=https%3A%2F%2F64.media.tumblr.com%2F580e9ef401985f40f5df5800330d836b%2Ftumblr_pg8ngoM3DR1vq3pwfo1_500.gif&tbnid=HLO2_KB0Fk8ddM&vet=12ahUKEwjckI7E0KWCAxUH5zgGHZHnC2MQMygbegUIARC-AQ..i&imgrefurl=https%3A%2F%2Fwww.tumblr.com%2Ftalented-musicians%2F178826030307%2Fnew-guitar-gif-music-animation-gif-black-and&docid=RRROrRIpDc8VXM&w=480&h=300&q=animated%20guiitar%20gif&ved=2ahUKEwjckI7E0KWCAxUH5zgGHZHnC2MQMygbegUIARC-AQ)">
+<img align="right" alt="guitar" width="600" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FvCVFye-h6bAAAAAj%2Fnioret.gif&tbnid=eenSCzMNTL_VUM&vet=12ahUKEwjckI7E0KWCAxUH5zgGHZHnC2MQMyggegUIARDNAQ..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fman-playing-guitar-gifs&docid=VtgG8yx_LFBRBM&w=168&h=197&q=animated%20guiitar%20gif&ved=2ahUKEwjckI7E0KWCAxUH5zgGHZHnC2MQMyggegUIARDNAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jwalantagurung&label=Profile%20views&color=0e75b6&style=flat" alt="jwalantagurung" /> </p>
 
