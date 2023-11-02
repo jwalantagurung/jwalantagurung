@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jwolan Gurung</h1>
 <h3 align="center">Web developer and designer from Nepal</h3>
 
-<img align="right" alt="guitar" width="600" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FvCVFye-h6bAAAAAj%2Fnioret.gif&tbnid=eenSCzMNTL_VUM&vet=12ahUKEwjckI7E0KWCAxUH5zgGHZHnC2MQMyggegUIARDNAQ..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fman-playing-guitar-gifs&docid=VtgG8yx_LFBRBM&w=168&h=197&q=animated%20guiitar%20gif&ved=2ahUKEwjckI7E0KWCAxUH5zgGHZHnC2MQMyggegUIARDNAQ">
+<img align="right" alt="guitar" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOX6nHSZIh-wrXgoqGiXBOTCgVNvpbovjldA&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jwalantagurung&label=Profile%20views&color=0e75b6&style=flat" alt="jwalantagurung" /> </p>
 
