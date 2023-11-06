@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I am spotify.**
 
-- I can play guitar.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
